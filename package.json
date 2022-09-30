@@ -1,6 +1,6 @@
 {
-  "name": "@surbowl/world-geo-json-zh",
-  "version": "1.0.1",
+  "name": "@simple-ice/world-geo-json-zh",
+  "version": "1.0.2",
   "description": "简体中文 GeoJSON 世界地图（zh-Hans, 1:110m）",
   "keywords": ["map", "geojson", "gis", "echarts"],
   "main": "world.zh.json",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Surbowl/world-geo-json-zh.git"
   },
-  "author": "Surbowl",
+  "author": "simple-ice",
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/Surbowl/world-geo-json-zh/issues"
