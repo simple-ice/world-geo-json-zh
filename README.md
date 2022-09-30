@@ -5,7 +5,7 @@ world-geo-json-zh
 Install
 --------
 ```
-npm i @surbowl/world-geo-json-zh
+npm i @simple-ice/world-geo-json-zh
 ```
 
 The data
